@@ -1,2 +1,2 @@
-# shearschen.github.io
+# shearschen.github.io/shearschen
 website function
